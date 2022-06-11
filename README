@@ -1,7 +1,3 @@
-Task 1:
-
-Within the Task1 OneDrive folder for Team4 is our Video Report, Runtime Data Excel Sheet, and the Python code for Implementation & Testing.
-
 If you want to take a closer look/run the code in "main.py" you can comment out specific portions depending on the goal.
 To test the runtime of the operations on your own (can vary by system for some cases), you can comment and uncomment depending
 on what function you are testing. Since our 'simple' operations (insert and extract_max) require a heap input you will need
